@@ -4,7 +4,7 @@ API REST de blagues Carambar pour le projet de sélection CDA Wild Code School.
 
 ## 📋 Description
 
-Application backend qui gère une collection de blagues Carambar avec un CRUD complet et une documentation Swagger interactive.
+Application backend qui gère une collection de blagues Carambar avec un CRUD et une documentation Swagger interactive.
 
 ## 🛠️ Stack technique
 
